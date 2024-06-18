@@ -1,0 +1,318 @@
+beer,Style,brewery,location,alcohol,calories,carbs,From brewery,Source
+60 Minute IPA,IPA,DogfishHead,Domestic,0.0600,209,,n,BeerScience
+American Amber Lager,Lager,Straub Brewery,Domestic,0.0410,136,10.5g,u,BEER100
+American Lager,Lager,Straub Brewery,Domestic,0.0410,132,10.5g,u,BEER100
+American Light,Light,Straub Brewery,Domestic,0.0320,96,7.6g,u,BEER100
+Amstel Light,Light,Amstel Light,Imported,0.0350,95,5,y,Realbeer
+Anchor Porter,Porter,Anchor,Domestic,0.0560,205,,u,Realbeer
+Anchor Steam,Pale Ale,Anchor,Domestic,0.0490,153,16.0g,u,BEER100
+Anheuser Busch Natural Ice,Ice,Anheuser Busch,Domestic,0.0590,157,8.9g,u,BEER100
+Anheuser Busch Natural Light,Light,Anheuser Busch,Domestic,0.0420,95,3.2g,u,BEER100
+Apocalypse IPA,IPA,10 Barrel,Domestic,0.0680,195,,n,BeerScience
+Apricot Ale,Wheat,Pyramid,Domestic,0.0510,167,13,y,Realbeer
+Asahi Draft Beer,Lager,Asahi (Japan),Imported,0.0500,146,,u,BEER100
+Aspen Edge,Lager,Adolph Coors,Domestic,0.0410,94,2.6g,u,BEER100
+Bachelor ESB,Stout,Deschutes,Domestic,0.0500,180,,u,Realbeer
+Bard’s Gold (Gluten-Free),GF,Bard’s Tale Beer Co,Domestic,0.0460,155,14.2g,u,BEER100
+Bass Ale,Pale Ale,Bass Brewers Ltd,Imported,0.0510,160,13.2,n,BeerScience
+Beamish Stout,Stout,Beamish,Imported,0.0410,131,,u,Realbeer
+Beck’s Beer,Pilsner,Brauerei Beck (Germany),Imported,0.0500,143,10.0g,u,BEER100
+Beck’s Dark,Lager,Brauerei Beck (Germany),Imported,0.0480,146,11.0g,u,BEER100
+Beck’s Light,Light,Brauerei Beck (Germany),Imported,0.0230,64,3.9g,u,BEER100
+Belgian White Ale,Belgian White,New Belgium,Domestic,0.0520,155,13.7,n,BeerScience
+Big Sky I.P.A.,IPA,Big Sky Brewing,Domestic,0.0620,195,*,u,BEER100
+Big Sky Moose Drool Brown Ale,Brown,Big Sky Brewing,Domestic,0.0520,177,15.6g,u,BEER100
+Big Sky Powder Hound (seasonal),Amber Ale,Big Sky Brewing,Domestic,0.0620,195,*,u,BEER100
+Big Sky Scape Goat Pale Ale,Pale Ale,Big Sky Brewing,Domestic,0.0470,163,13.9g,u,BEER100
+Big Sky Summer Honey Ale (seasonal),Honey Ale,Big Sky Brewing,Domestic,0.0470,154,11.6g,u,BEER100
+Big Sky Trout Slayer Ale,Wheat,Big Sky Brewing,Domestic,0.0470,163,13.9g,u,BEER100
+Big Wave Golden Ale,Golden Ale,Kona Brewing Co,Domestic,0.0440,132,10,y,BeerScience
+Black Butte porter,Porter,Deschutes,Domestic,0.0520,192,,y,BeerScience
+Blatz Beer,Unknown,Blatz,Domestic,0.0480,153,12.5g,u,BEER100
+Blue Moon,Wheat,Adolph Coors,Domestic,0.0540,171,13.7g,u,BEER100
+Blue Moon White,Wheat,Blue Moon,Domestic,0.0540,171,12.9,u,Realbeer
+Breckenridge Brown Ale,Brown,Breckenridge Brewery,Domestic,0.0560,196,21.9g,u,BEER100
+Breckenridge Red Ale,Red,Breckenridge Brewery,Domestic,0.0550,193,21.8g,u,BEER100
+Broken Top Bock,Bock,Deschutes,Domestic,0.0700,233,,u,Realbeer
+Bud Dry,Lager,Budweiser,Domestic,0.0500,130,7.8g,u,BEER100
+Bud Ice,Ice,Budweiser,Domestic,0.0550,123,8.9,u,BEER100
+Bud Ice Light,Light,Budweiser,Domestic,0.0500,115,7.5g,u,BEER100
+Bud Light,Light,Budweiser,Domestic,0.0420,110,6.6,u,Realbeer
+Bud Light Lime,Light,Budweiser,Domestic,0.0420,116,8.0g,u,BEER100
+Bud Light Platinum,Light,Budweiser,Domestic,0.0600,137,4.4g,u,BEER100
+Budweiser,Lager,Budweiser,Domestic,0.0500,145,10.6g,u,BEER100
+Budweiser Black Crown,Red,Budweiser,Domestic,0.0600,146,10g,u,BEER100
+Budweiser Select,Lager,Budweiser,Domestic,0.0430,99,3.1g,u,BEER100
+Budweiser Select 55,Light,Budweiser,Domestic,0.0240,55,1.9g,u,BEER100
+Busch,Lager,Busch,Domestic,0.0460,133,10.2,u,Realbeer
+Busch Ice,Ice,Anheuser Busch,Domestic,0.0590,169,12.5g,u,BEER100
+Busch Light,Light,Busch Light,Domestic,0.0410,95,3.2,u,Realbeer
+Carling Black Label,Unknown,G. Heileman,Domestic,0.0430,138,12.5g,u,BEER100
+Cascade Ale,Blonde,Deschutes,Domestic,0.0450,140,,u,Realbeer
+Castaway IPA,IPA,Kona Brewing Co,Domestic,0.0600,174,11.9,y,BeerScience
+Celebrator Doppelbock,Doppelbock,Ayinger,Imported,0.0670,260,23,n,BeerScience
+Cerveza Carta Blanca,Lager,Cerveceria Cauhtemoc (Mexico),Imported,0.0400,128,,u,BEER100
+Cerveza Tecate Beer,Lager,Cervecerla Cauhtemoc (Mexico),Imported,0.0440,146,,u,BEER100
+Chester Golden A]e,Golden Ale,Greenall Whitley (England),Imported,0.0540,156,,u,BEER100
+Cinder Cone Red,Red,Deschutes,Domestic,0.0580,180,,u,Realbeer
+Clausthaler,Non,Clausthaler,Unk,0.0040,96,5.8,u,Realbeer
+Colt 45 Malt Liquor,Malt,G. Heileman,Domestic,0.0610,174,11.1g,u,BEER100
+Coors,Pilsner,MillerCoors,Domestic,0.0491,149,12.2g,u,BEER100
+Coors Extra Gold,Lager,Coors,Domestic,0.0500,147,10.7,u,Realbeer
+Coors Light,Light,Coors,Domestic,0.0420,102,5.0,u,Realbeer
+Coors NA,Non,Coors,Domestic,0.0050,73,14.2,u,Realbeer
+Corona Extra Beer,Lager,Cereveria Modela SA (Mexico),Imported,0.0460,148,13.99g,u,BEER100
+Corona Light,Light,Corona,Imported,0.0450,109,5,u,Realbeer
+Cream Ale,Cream Ale,Ancestry Brewing,Domestic,0.0520,150,,n,BeerScience
+Curve Ball,Blonde,Pyramid Brewing,Domestic,0.0500,153,12,y,BeerScience
+Da Shootz American Pilsner ,Pilsner,Deschutes Brewery,Domestic,0.0400,99,4,y,Brewery website
+Deschutes Chainbreaker White IPA,IPA,Deschutes Brewery,Domestic,0.0560,180,10.8g,u,BEER100
+Deschutes Pinedrops IPA,IPA,Deschutes Brewery,Domestic,0.0650,190,11.0g,u,BEER100
+Dos Equis XX,Lager,Dos Equis,Imported,0.0420,145,,u,Realbeer
+Dos Equis XX Special Lager,Lager,Cerveceria Montezuma (Mexico),Imported,0.0490,156,,u,BEER100
+Dragon Stout,Stout,Desnoes – Goeddes (Jamaica),Imported,0.0680,220,,u,BEER100
+Edison Light,Light,Edison Light,Unk,0.0400,109,6.5,u,Realbeer
+Extra Gold Lager,Lager,MillerCoors,Domestic,0.0497,152,12.5g,u,BEER100
+Fat Tire Ale,Pale Ale,New Belgium,Domestic,0.0520,160,,n,BeerScience
+Fire Rock Pale Ale,Pale Ale,Kona Brewing Co,Domestic,0.0580,186,11,y,BeerScience
+Flying Dog Dog Schwarz,Lager,Flying Dog Brewery,Domestic,0.0780,222,14.3g,u,BEER100
+Flying Dog Doggie Style,Pale Ale,Flying Dog Brewery,Domestic,0.0470,158,11.4g,u,BEER100
+Flying Dog DogtoberFest,Marzen,Flying Dog Brewery,Domestic,0.0560,165,12.3g,u,BEER100
+Flying Dog Double Dog,IPA,Flying Dog Brewery,Domestic,0.1150,313,16.6g,u,BEER100
+Flying Dog Garde Dog,Farmhouse,Flying Dog Brewery,Domestic,0.0550,150,9.3g,u,BEER100
+Flying Dog Gonzo,Porter,Flying Dog Brewery,Domestic,0.0920,271,18.9g,u,BEER100
+Flying Dog In Heat Wheat,Wheat,Flying Dog Brewery,Domestic,0.0470,138,10.4g,u,BEER100
+Flying Dog K-9 Cruiser,English Ale,Flying Dog Brewery,Domestic,0.0740,197,10.6g,u,BEER100
+Flying Dog Kerberos Tripel,Trippel,Flying Dog Brewery,Domestic,0.0830,238,8.6g,u,BEER100
+Flying Dog Old Scratch Amber Ale,Amber Ale,Flying Dog Brewery,Domestic,0.0550,154,10.2g,u,BEER100
+Flying Dog Raging Bitch,IPA,Flying Dog Brewery,Domestic,0.0830,221,11.6g,u,BEER100
+Flying Dog Road Dog,Porter,Flying Dog Brewery,Domestic,0.0600,163,9.9g,u,BEER100
+Flying Dog Snake Dog IPA,IPA,Flying Dog Brewery,Domestic,0.0710,188,10.0g,u,BEER100
+Flying Dog Tire Bite Golden Ale,Golden Ale,Flying Dog Brewery,Domestic,0.0510,129,6.2g,u,BEER100
+Flying Dog Wild Dog: Coffee Stout,Stout,Flying Dog Brewery,Domestic,0.0990,288,20.2g,u,BEER100
+Flying Dog Woody Creek White,Wheat,Flying Dog Brewery,Domestic,0.0480,131,8.0g,u,BEER100
+Foreign Extra Stout,Stout,Guinness,Imported,0.0750,176,14,u,Realbeer
+Foster’s Lager,Lager,Garlton & United (Australia),Imported,0.0510,156,11.0g,u,BEER100
+Fuller's London Pride,Brown,Fuller's,Imported,0.0470,156,,u,Realbeer
+Furstenberg German Beer,Pilsner,Fustlich Ferstenbergische,Imported,0.0440,138,,u,BEER100
+Genesee 12 Horse,English Ale,Genesee/High Falls,Domestic,0.0480,152,14,u,Realbeer
+Genesee Beer,Unknown,High Falls Brewing,Domestic,0.0450,148,13.5g,u,BEER100
+Genesee Cream Ale,Cream Ale,High Falls Brewing,Domestic,0.0510,162,15.0g,u,BEER100
+Genesee Ice,Ice,High Falls Brewing,Domestic,0.0590,156,14.5g,u,BEER100
+Genesee Red,Red,High Falls Brewing,Domestic,0.0490,148,14.0g,u,BEER100
+Genny Light,Light,Genesee/High Falls,Unk,0.0360,96,5.5,u,Realbeer
+George Killian’s Irish Red,Red,MillerCoors,Domestic,0.0498,162,14.8g,u,BEER100
+Great Wall,Pale Ale,Green Bamboo (China),Imported,0.0460,160,,u,BEER100
+Greenall’s Cheshire English Pub Beer,Pale Ale,Greenall Whitley PLC (England),Imported,0.0500,142,,u,BEER100
+Grolsch Lager Beer,Lager,Grolsch Bierbrouweri (Holland),Imported,0.0500,145,9.5g,u,BEER100
+Guinness Draught,Stout,Guinness,Imported,0.0430,125,10,n,BeerScience
+Guinness Extra Stout,Stout,Guinness (Ireland),Imported,0.0427,153,17.4g,u,BEER100
+Hamm's,Lager,Hamm's,Domestic,0.0470,144,12.1,u,Realbeer
+Hamm's Light,Light,Hamm's,Domestic,0.0410,110,7.3,u,Realbeer
+Hamm’s Golden Draft,Golden Ale,MillerCoors,Domestic,0.0470,144,12.1g,u,BEER100
+Hamm’s Special Light,Light,MillerCoors,Domestic,0.0390,110,8.3g,u,BEER100
+Harp,Lager,Harp (Ireland),Imported,0.0455,142,,u,BEER100
+Heater Allen Marzen,Marzen,Heater Allen,Domestic,0.0500,150,,n,BeerScience
+Hefe,Hefeweizen,Widmer Brothers,Domestic,0.0490,154,13,y,BeerScience
+Hefewiezen,Hefeweizen,Pyramid Brewing,Domestic,0.0520,171,13,y,BeerScience
+Heineken Lager Beer,Lager,Heineken (Holland),Imported,0.0500,150,11.5g,u,BEER100
+Heineken Light,Light,Heineken,Imported,0.0350,99,6.8,u,Realbeer
+Heineken Special Dark Beer,Lager,Heineken (Holland),Imported,0.0510,170,,u,BEER100
+Heineken Special Light,Light,Heineken (Holland),Imported,0.0380,99,6.8g,u,BEER100
+Honey Brown,Brown,J.W. Dundee,Unk,0.0450,150,13.5,u,Realbeer
+I.C. Light,Light,Pittsburgh Brewing,Domestic,0.0410,95,2.8,u,Realbeer
+Icehouse 5.0,Ice,Icehouse,Domestic,0.0500,132,8.7,u,Realbeer
+Icehouse Light,Light,MillerCoors,Domestic,0.0413,103,5.5g,u,BEER100
+Inversion IPA,IPA,Deschutes,Domestic,0.0680,228,,y,BeerScience
+Iron City Lager,Lager,Pittsburgh Brewing,Domestic,0.0450,140,10,u,Realbeer
+Jubelale,Ale,Deschutes,Domestic,0.0670,230,,y,Brewery website
+Kanaha Blonde Ale,Blonde,Kona Brewing Co,Domestic,0.0420,99,4,Y ,BeerScience
+Keystone Ice,Ice,Adolph Coors,Domestic,0.0590,142,5.9g,u,BEER100
+Keystone Light,Light,Keystone,Domestic,0.0420,100,5.0,u,Realbeer
+Keystone Premium,Lager,Adolph Coors,Domestic,0.0443,111,5.8g,u,BEER100
+Kilarney's Red Lager,Red,Kilarney's,Unk,0.0500,197,22.8,u,Realbeer
+Killian's,Red,Killian's,Unk,0.0490,163,13.8,u,Realbeer
+Kipling Light Lager,Light,Genesee/High Falls,Unk,0.0340,99,8.0,u,Realbeer
+Kirin Beer,Lager,Kirin (Japan),Imported,0.0680,188,,u,BEER100
+Kronenbourg Beer,Lager,Kronenbourg (France),Imported,0.0510,153,,u,BEER100
+Kronenbourg Imported Dark Beer,Lager,Kronenbourg (France),Imported,0.0500,163,,u,BEER100
+Labatt Blue,Pilsner,Labatt,Imported,0.0500,153,,u,Realbeer
+Labatt’s 50,Lager,Labatt’s,Imported,0.0530,153,9.9g,u,BEER100
+Leinenkugel Amber Light,Light,Leinenkugel,Domestic,0.0414,110,7.4g,u,BEER100
+Leinenkugel Creamy Dark,Lager,Leinenkugel,Domestic,0.0494,170,16.8g,u,BEER100
+Leinenkugel Honey Weiss,Wheat,Leinenkugel,Domestic,0.0492,149,12.0g,u,BEER100
+Leinenkugel Light,Light,Leinenkugel,Domestic,0.0419,105,5.7g,u,BEER100
+Leinenkugel Northwoods Lager,Lager,Leinenkugel,Domestic,0.0494,163,15.3g,u,BEER100
+Leinenkugel Original,Pilsner,Leinenkugel,Domestic,0.0467,152,13.9g,u,BEER100
+Leinenkugel Red,Red,Leinenkugel,Domestic,0.0494,166,16.2g,u,BEER100
+Leinenkugel Sunset Wheat,Wheat,Leinenkugel,Domestic,0.0490,165,16g,u,BEER100
+Liberty Ale,IPA,Anchor,Domestic,0.0600,188,,u,Realbeer
+Light,Light,Yuengling,Domestic,0.0380,98,6.6,u,Realbeer
+Light Lager,Light,Yuengling,Domestic,0.0360,96,8.5,u,Realbeer
+Longboard Island Lager,Lager,Kona Brewing Co,Domestic,0.0460,134,11,y,BeerScience
+Lowenbräu,Lager,Lowenbräu,Imported,0.0520,160,,u,Realbeer
+Lowenbrau Dark,Lager,Lowenbräu,Imported,0.0500,160,,u,BEER100
+Lowenbrau Special Beer,Unknown,Lowenbräu,Imported,0.0520,160,,u,BEER100
+Luky 13 Mondo Large Red Ale,Red,Lagunitas Brewing Co,Domestic,0.0880,264,,n,BeerScience
+Magnum Malt Liquor,Malt,MillerCoors,Domestic,0.0560,157,11.2g,u,BEER100
+Marionberry Sour,Sour,Rogue,Domestic,0.0650,162,,n,BeerScience
+McEwans Scotch Ale,Scotch Ale,Scottish & Newcastle (Scotland),Imported,0.0950,295,,u,BEER100
+Michael Shea’s,Unknown,High Falls Brewing,Domestic,0.0462,145,13.0g,u,BEER100
+Michelob,Lager,Michelob,Domestic,0.0500,155,13.3,u,Realbeer
+Michelob Amber Bock,Bock,Michelob,Domestic,0.0520,166,15.0,u,Realbeer
+Michelob Beer,Lager,Anheuser Busch,Domestic,0.0500,155,13.3g,u,BEER100
+Michelob Black & Tan,Porter,Michelob,Domestic,0.0500,168,15.8,u,Realbeer
+Michelob Golden Draft,Golden Ale,Anheuser Busch,Domestic,0.0470,152,14.1g,u,BEER100
+Michelob Golden Draft Light,Light,Anheuser Busch,Domestic,0.0410,110,7.0g,u,BEER100
+Michelob Hefeweizen,Wheat,Michelob,Domestic,0.0500,152,11.8,u,Realbeer
+Michelob Honey Lager,Lager,Michelob,Domestic,0.0490,175,17.4,u,Realbeer
+Michelob Light,Light,Michelob,Domestic,0.0430,113,6.7,u,Realbeer
+Michelob Ultra,Lager,Michelob,Domestic,0.0420,95,2.6,u,Realbeer
+Mickey's,Malt,Mickey's,Domestic,0.0560,157,11.2,u,Realbeer
+Mickey’s Fine Malt Liquor,Malt,MillerCoors,Domestic,0.0560,157,11.2g,u,BEER100
+Miller Chill,,MillerCoors,Domestic,0.0420,110,6.5g,u,BEER100
+Miller Genuine Draft,,MillerCoors,Domestic,0.0470,143,13.1g,u,BEER100
+Miller Genuine Draft “64”,,MillerCoors,Domestic,0.0280,64,2.4g,u,BEER100
+Miller Genuine Draft Lite,Light,Miller,Domestic,0.0420,110,7,u,Realbeer
+Miller High Life,,MillerCoors,Domestic,0.0460,141,13.1g,u,BEER100
+Miller High Life Light,Light,MillerCoors,Domestic,0.0420,110,7g,u,BEER100
+Miller Lite,,Miller,Domestic,0.0420,96,3.2,u,Realbeer
+Miller Lite Brewers Collection Amber,Light,MillerCoors,Domestic,0.0420,110,6.2g,u,BEER100
+Miller Lite Brewers Collection Blonde,Light,MillerCoors,Domestic,0.0420,110,6.2g,u,BEER100
+Miller Lite Brewers Collection Wheat,Light,MillerCoors,Domestic,0.0420,110,6.2g,u,BEER100
+Milwaukee’s Best,,MillerCoors,Domestic,0.0430,128,11.4g,u,BEER100
+Milwaukee’s Best Ice,,MillerCoors,Domestic,0.0590,144,7.3g,u,BEER100
+Milwaukee’s Best Light,Light,MillerCoors,Domestic,0.0420,98,3.5g,u,BEER100
+Milwaukee’s Best Premium,,MillerCoors,Domestic,0.0430,128,11.4g,u,BEER100
+Mirror Pond Pale Ale,Pale Ale,Deschutes,Domestic,0.0500,170,,n,BeerScience
+Molson Canadian Beer,,Molson (Canada),Imported,0.0510,153,,u,BEER100
+Molson Golden Beer,Golden Ale,Molson (Canada),Imported,0.0604,170,,u,BEER100
+Molson Light,Light,Molson (Canada),Imported,0.0241,82,,u,BEER100
+Moosehead,,Moosehead,Imported,0.0500,153,,u,Realbeer
+Murphy's Irish Red,Red,Murphy's,Unk,0.0500,171,,u,Realbeer
+Murphy's Stout,Stout,Murphy's,Unk,0.0400,150,,u,Realbeer
+Narwhal Imperial Stout,Imperial Stout,Sierra Nevada,Domestic,0.1020,344,,y,BeerScience
+New Belgium 1554,,New Belgium,Domestic,0.0560,205,25g,u,BEER100
+New Belgium 2 Below,,New Belgium,Domestic,0.0660,200,17g,u,BEER100
+New Belgium Abbey,,New Belgium,Domestic,0.0700,200,18g,u,BEER100
+New Belgium Blue Paddle,,New Belgium,Domestic,0.0480,140,14g,u,BEER100
+New Belgium Mothership Wit,,New Belgium,Domestic,0.0480,155,15g,u,BEER100
+New Belgium Sunshine Wheat,Wheat,New Belgium,Domestic,0.0480,145,13g,u,BEER100
+New Belgium Trippel,Trippel,New Belgium,Domestic,0.0780,215,20g,u,BEER100
+Nordik Wolf Light,Light,A.B. Pripps Bryggerier (Sweden),Imported,0.0470,110,,u,BEER100
+O'Douls,Non,O'Douls,Unk,0.0040,70,13.3,u,Realbeer
+O'Douls Amber,Non,O'Douls,Unk,0.0040,90,18,u,Realbeer
+O’Keefe Canadian Beer,,O’Keefe (Canada),Imported,0.0490,142,,u,BEER100
+Obsidian Stout,Stout,Deschutes,Domestic,0.0640,220,,y,BeerScience
+Old Milwaukee Light,Light,Old Milwaukee,Domestic,0.0380,114,8.3g,u,BEER100
+Old Rasputin Imperial Russian Stout,Imperial Stout,North Coast Brewing Co.,Domestic,0.0900,300,,n,BeerScience
+Olde English 800,Malt,Olde English 800,Domestic,0.0590,160,10.5,u,Realbeer
+Olde English 800 7.5,Malt,MillerCoors,Domestic,0.0750,202,13.4g,u,BEER100
+Olde English 800 Ice,Malt,Olde English 800,Domestic,0.0790,216,14.3,u,Realbeer
+Olde English High Gravity 800,Malt,MillerCoors,Domestic,0.0800,220,14.6g,u,BEER100
+Olympia Premium Lager,Lager,Pabst,Domestic,0.0470,146,11.9g,u,BEER100
+Pabst Extra Light Low Alcohol,Light,Pabst,Domestic,0.0250,67,*,u,BEER100
+Pete's Helles Lager,Lager,Pete's Brewing,Unk,0.0500,163,14.6,u,Realbeer
+Pete's Oktoberfest,,Pete's Brewing,Unk,0.0580,189,16.9,u,Realbeer
+Pete's Red Rush,Red,Pete's Brewing,Unk,0.0530,170,14.8,u,Realbeer
+Pete's Strawberry Blonde,Blonde,Pete's Brewing,Unk,0.0500,160,13.6,u,Realbeer
+Pete's Summer Brew,,Pete's Brewing,Unk,0.0470,163,15.6,u,Realbeer
+Pete's Wicked Ale,,Pete's Brewing,Unk,0.0530,174,17.7,u,Realbeer
+Pete's Winter Brew,,Pete's Brewing,Unk,0.0520,170,15.2,u,Realbeer
+Pete’s Wicked Ale,Ale,,Domestic,0.0530,174,17.7g,u,BEER100
+Pine Mountain Pils,Pilsner,Deschutes,Domestic,0.0510,154,,u,Realbeer
+Private Reserve,,Henry Weinhard's,Domestic,0.0450,128,9.2,u,Realbeer
+Pub Beer Lager,Lager,10 Barrel,Domestic,0.0500,150,,n,BeerScience
+Quail Springs IPA,IPA,Deschutes,Domestic,0.0580,200,,u,Realbeer
+Red Dog,Red,Red Dog,Domestic,0.0500,147,14.1,u,Realbeer
+Red Hook ESB,Stout,Red Hook,Domestic,0.0577,179,14.15g,u,BEER100
+Red Stripe Lager Beer,Lager,Desnoes & Geddes (Jamaica),Imported,0.0500,153,,u,BEER100
+Redhook Blonde Ale,Blonde,Redhook,Domestic,0.0540,166,13.1,u,Realbeer
+Redhook Hefe-weizen,Hefeweizen,Redhook,Domestic,0.0520,155,10.9,u,Realbeer
+Redhook IPA,IPA,Redhook,Domestic,0.0650,188,12.7,u,Realbeer
+Redhook Nut Brown,Brown,Redhook,Domestic,0.0560,181,16,u,Realbeer
+Rhinebecker,,Rhinebecker,Unk,0.0500,106,2.5,u,Realbeer
+Rolling Rock Extra Pale,,Latrobe,Domestic,0.0460,142,,u,BEER100
+Rolling Rock Premium Beer,,Latrobe,Domestic,0.0450,120,10.0g,u,BEER100
+Salvator,,Paulaner,Unk,0.0750,251,,u,Realbeer
+Sam Adams Boston Ale,Ale,Boston Beer,Domestic,0.0494,160,19.9g,u,BEER100
+Sam Adams Boston Lager,Lager,Boston Beer,Domestic,0.0475,160,18.0g,u,BEER100
+Sam Adams Cherry Wheat,Wheat,Boston Beer,Domestic,0.0520,166,16.86g,u,BEER100
+Sam Adams Cream Stout,Stout,Boston Beer,Domestic,0.0469,195,23.94g,u,BEER100
+Sam Adams Double Bock,Bock,Sam Adams,Domestic,0.0850,240,,u,Realbeer
+Sam Adams Golden Pilsner,Pilsner,Sam Adams,Domestic,0.0460,145,,u,Realbeer
+Sam Adams IPA,IPA,Boston Beer,Domestic,0.0593,175,,u,BEER100
+Sam Adams Light,Light,Boston Beer,Domestic,0.0430,119,9.6g,u,BEER100
+Sam Adams Octoberfest,,Sam Adams,Domestic,0.0570,165,,u,Realbeer
+Sam Adams Pale Ale,Pale Ale,Boston Beer,Domestic,0.0525,145,,u,BEER100
+Sam Adams Spring Ale,Ale,Sam Adams,Domestic,0.0520,170,,u,Realbeer
+Sam Adams Summer Ale,Ale,Sam Adams,Domestic,0.0540,175,,u,Realbeer
+Sam Adams Winter Lager,Lager,Sam Adams,Domestic,0.0580,190,,u,Realbeer
+Samuel Smith’s Organic Lager,Lager,Samuel Smith’s Brewery,Imported,0.0500,158,13.3g,u,BEER100
+Schaefer Beer,,Pabst,Domestic,0.0460,142,12.0g,u,BEER100
+Schlitz Beer,,Pabst,Domestic,0.0470,146,12.1g,u,BEER100
+Schlitz Light,Light,Pabst,Domestic,0.0420,110,*,u,BEER100
+Schlitz Malt Liquor,Malt,Pabst,Domestic,0.0620,185,*,u,BEER100
+Scrimshaw Pilsner,Pilsner,North Coast Brewing Co.,Domestic,0.0450,138,11,,BeerScience
+Sculpin IPA,IPA,Ballast Point Brewing,Domestic,0.0700,240,20,n,BeerScience
+Sheaf Stout,Stout,Carlton & United (Australia),Imported,0.0520,174,18.8g,u,BEER100
+Shiner Bock,Bock,Shiner,Unk,0.0440,143,12.5,u,Realbeer
+Shiner Light,Light,Shiner,Unk,0.0390,120,9,u,Realbeer
+Sidecar IPA,IPA,Sierra Nevada,Domestic,0.0680,166,13.6,y,BeerScience
+Sierra Nevada Anniversary Ale,Ale,Sierra Nevada,Domestic,0.0590,190,17.3g,u,BEER100
+Sierra Nevada Bigfoot,Barleywine Ale,Sierra Nevada,Domestic,0.0990,330,30.3,u,Realbeer
+Sierra Nevada Celebration Ale,Ale,Sierra Nevada,Domestic,0.0680,214,19.4g,u,BEER100
+Sierra Nevada Draft Ale,Ale,Sierra Nevada,Domestic,0.0500,157,13.4g,u,BEER100
+Sierra Nevada Early Spring Beer,,Sierra Nevada,Domestic,0.0590,190,16.7g,u,BEER100
+Sierra Nevada Harvest Ale,Ale,Sierra Nevada,Domestic,0.0670,215,19.3g,u,BEER100
+Sierra Nevada India Pale Ale,IPA,Sierra Nevada,Domestic,0.0690,231,20.0g,u,BEER100
+Sierra Nevada Pale Ale,Pale Ale,Sierra Nevada,Domestic,0.0560,175,14.1g,u,BEER100
+Sierra Nevada Pale Bock,Bock,Sierra Nevada,Domestic,0.0700,218,19.7g,u,BEER100
+Sierra Nevada Porter,Porter,Sierra Nevada,Domestic,0.0560,194,18.4g,u,BEER100
+Sierra Nevada Stout,Stout,Sierra Nevada,Domestic,0.0580,225,22.3g,u,BEER100
+Sierra Nevada Summerfest Beer,,Sierra Nevada,Domestic,0.0500,158,13.7g,u,BEER100
+Sierra Nevada Wheat,Wheat,Sierra Nevada,Domestic,0.0470,153,13.1,u,Realbeer
+Signature Stroh Beer,,Stroh’s,Domestic,0.0480,153,*,u,BEER100
+Smithwick's Red Ale,Red,Smithwick's & Sons,Imported,0.0450,150,,n,BeerScience
+Snow Cap Ale,Ale,Pyramid,Domestic,0.0700,226,19,y,Realbeer
+Sol Cerveza Especial,,Cerveceria Montezuma (Mexico),Imported,0.0410,131,,u,BEER100
+Southpaw Light,Light,MillerCoors,Domestic,0.0500,123,6.6g,u,BEER100
+Spaten Munich Special Dark Beer,,Spaten-Brau (Germany),Imported,0.0660,185,,u,BEER100
+St. Pauli Girl Beer,,St. Pauli (Germany),Imported,0.0490,148,8.7g,u,BEER100
+St. Pauli Girl Dark Beer,,St. Pauli (Germany),Imported,0.0480,150,,u,BEER100
+St. Pauli Girl N.A.,Non,St. Pauli Girl,Imported,0.0050,96,23,u,Realbeer
+Steel Reserve,,MillerCoors,Domestic,0.0810,222,16.0g,u,BEER100
+Steel Reserve Six,,MillerCoors,Domestic,0.0600,160,11.0g,u,BEER100
+Steel Reserve Triple Export,,MillerCoors,Domestic,0.0810,222,16.0g,u,BEER100
+Stella Artois,Lager,AB InBev,Imported,0.0480,151,11.7,y,BeerScience
+Stone IPA,IPA,Stone Brewery,Domestic,0.0690,200,,y,BeerScience
+Stroh’s Beer,,Stroh’s,Domestic,0.0460,149,12.0g,u,BEER100
+Stroh’s Light,Light,Stroh’s,Domestic,0.0440,113,7g,u,BEER100
+Summit Horizon Red IPA,IPA,Summit Brewing,Domestic,0.0570,195,15g,u,BEER100
+Summit Summer Ale,,Summit Brewing,Domestic,0.0450,147,12g,u,BEER100
+Suntory Draft Beer,,Suntory (Japan),Imported,0.0460,138,,u,BEER100
+Superior Imported Beer,,Cerveceria Moctezuma (Mexico),Imported,0.0430,153,,u,BEER100
+Thos Cooper & Sons Adelaide Lager,Lager,Cooper & Sons (Australia),Imported,0.0420,128,,u,BEER100
+Thos Cooper & Sons Real Ale,,Cooper & Sons (Australia),Imported,0.0677,160,,u,BEER100
+Thos Cooper & Sons Stout,Stout,Cooper & Sons (Australia),Imported,0.0710,205,,u,BEER100
+Tolly Origlnal Premium Ale,,Tollei-ache & Cobbold (England),Imported,0.0485,146,,u,BEER100
+Tsingtao,,Tsingtao,Imported,0.0470,152,,u,Realbeer
+Tuborg Deluxe Dark Export,,G. Heileman,Domestic,0.0510,163,,u,BEER100
+Tuborg Export Quality,,G. Heileman,Domestic,0.0500,156,,u,BEER100
+Twilight Summer Ale,Ale,Deschutes,Domestic,0.0500,162,9.6,y,BeerScience
+Watney’s Red Barrel Beer,Red,Stag (England),Imported,0.0392,142,,u,BEER100
+Weinhard's Amber Ale,Amber Ale,Henry Weinhard's,Domestic,0.0530,169,14,u,Realbeer
+Weinhard's Dark,,Henry Weinhard's,Domestic,0.0480,150,13.1,u,Realbeer
+Weinhard’s Amber Light,Light,MillerCoors,Domestic,0.0420,135,11.5g,u,BEER100
+Weinhard’s Blonde Lager,Blonde,MillerCoors,Domestic,0.0510,161,14.0g,u,BEER100
+Weinhard’s Hefeweizen,Hefeweizen,MillerCoors,Domestic,0.0490,151,12.2g,u,BEER100
+Weinhard’s Pale Ale,Pale Ale,MillerCoors,Domestic,0.0460,147,13g,u,BEER100
+Weinhard’s Private Reserve,Lager,MillerCoors,Domestic,0.0480,150,9.9g,u,BEER100
+WOWSA,Hazy,Deschutes,Domestic,0.0400,100,4,,BeerScience
+Wurtzburger Hofbrau Light,Light,Wurtzburger Hofbrau Ag (Germany),Imported,0.0544,153,,u,BEER100
+Wurzburger Hofbrau,Pilsner,Wurtzburger Hofbrauag (Germany),Imported,0.0542,160,,u,BEER100
+Yuengling Ale,Lager,D.G. Yuengilng,Domestic,0.0500,145,10g,u,BEER100
+Yuengling Lager,Lager,D.G. Yuengling,Domestic,0.0440,135,12g,u,BEER100
+Yuengling Light,Light,D.G. Yuengling,Domestic,0.0380,98,6.6g,u,BEER100
+Yuengling Porter,Porter,D.G. Yuengilng,Domestic,0.0450,150,14g,u,BEER100
+Snake Venom,TBD,Brewmeister,Imported,0.675,2050,,y,BeerScience
